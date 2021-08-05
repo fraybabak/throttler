@@ -1,0 +1,28 @@
+{
+  "name": "throttler",
+  "version": "1.0.0",
+  "description": "a simple throttle middleware for express apps.this package works with redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express-list-endpoints": "^6.0.0",
+    "ioredis": "^4.24.5",
+    "path-to-regexp": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fraybabak/throttler.git"
+  },
+  "keywords": [
+    "throttling",
+    "throttle"
+  ],
+  "author": "fraybabak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraybabak/throttler/issues"
+  },
+  "homepage": "https://github.com/fraybabak/throttler#readme"
+}
