@@ -1,6 +1,6 @@
 {
-  "name": "throttler",
-  "version": "1.0.0",
+  "name": "@fraybabak/throttler",
+  "version": "1.0.3",
   "description": "a simple throttle middleware for express apps.this package works with redis",
   "main": "index.js",
   "scripts": {
